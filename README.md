@@ -1,5 +1,15 @@
 # 💳 Credit Card Financial Analysis
 
+## 📊 Dashboard Preview
+
+### Transaction Dashboard
+
+![Overview Dashboard](images/transaction-dashboard.png)
+
+### Customer Dashboard
+
+![Customer Analysis Dashboard](images/customer-dashboard.png)
+
 ## 📌 Overview
 
 This project analyzes customer transactions and revenue performance for a credit card company. The objective is to uncover business insights related to customer demographics, card categories, spending behavior, and customer satisfaction, enabling data-driven decision-making.
